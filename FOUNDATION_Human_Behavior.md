@@ -1,6 +1,5 @@
 # The Foundation: Understanding Human Behavior
 
-**Read this first. Everything else builds on this foundation.**
 
 ---
 
