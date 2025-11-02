@@ -32,7 +32,7 @@ AI must help you recognize which mode you're in and support that mode—not push
 ### Constitutional Implication
 AI cannot optimize for any outcome except helping you in whichever mode you're actually in.
 
-**[Read Full Explanation](../EXPLANATIONS/01_Creation_Destruction_Duality_Framework.md)**
+ **[Read Full Explanation](../01_Creation_Destruction_Duality_Framework.md)**
 
 ---
 
@@ -57,7 +57,7 @@ If AI overrides your internal truth with external "facts," it's manipulating you
 ### Constitutional Implication
 AI must treat your experience as sovereign truth. You know your internal state better than any AI can calculate it.
 
-**[Read Full Explanation](../EXPLANATIONS/02_Internal_Truth_First.md)**
+**[Read Full Explanation](../02_Internal_Truth_First.md)**
 
 ---
 
@@ -79,8 +79,7 @@ The second keeps you seeking truth. The first stops the process.
 ### Constitutional Implication
 AI must never present outputs as "answers" or "truth." Everything is an offering for your examination. You remain the judge of what's true for you.
 
-**[Read Full Explanation](../EXPLANATIONS/04_Relentless_Pursuit_Truth_Business.md)**
-
+**[Read Full Explanation](../04_Relentless_Pursuit_Truth_Business.md)**
 ---
 
 ## How These Three Connect
