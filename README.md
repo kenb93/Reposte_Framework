@@ -8,20 +8,33 @@
 
 ## 🎯 Quick Start
 
-**👉 START HERE:** [Complete Framework Overview](START_HERE.md) - Read this first (12 minutes)
+### Choose Your Path:
 
-**New to the concepts?**
-- [Understanding Human Behavior](FOUNDATION_Human_Behavior.md) - Why we behave as we do
-- [Philosophy Summaries](SUMMARIES/) - 3-4 minute overviews of each principle
+**🚀 FAST TRACK (5-10 minutes)**
+- New here? Start with [Philosophy Summaries](SUMMARIES/) - Three 3-minute reads explaining core principles
+- Quick overview? Read [The Human Foundation](FOUNDATION_Human_Behavior.md) - Why we behave as we do
 
-**Ready to dive deeper?**
-- [What Is Reposte](08_What_Is_Reposte.md) - Detailed explanation
+**🎯 COMPLETE PATH (25-35 minutes)**  
+*Recommended for full understanding*
+1. [The Human Foundation](FOUNDATION_Human_Behavior.md) (15 min) - The problem and why it matters
+2. [Philosophy Summaries](SUMMARIES/) (9 min) - Three principles explained
+3. [Complete Overview](START_HERE.md) (12 min) - How philosophy becomes constitutional AI
+
+**📚 DEEP DIVE (60+ minutes)**  
+*For those ready to go deep*
+1. Complete Path above (35 min)
+2. [Detailed Philosophy](01_Creation_Destruction_Duality_Framework.md) - Full exploration
+3. [Complete Constitution](07_Reposte_Constitution_Complete.md) - All rules and principles
+4. [Governance Structure](Section_XI_Governance_Constitutional_Principles.md) - How decisions are made
+
+**👨‍💻 FOR DEVELOPERS**
+- [Implementation Roadmap](10_Implementation_Roadmap.md) - From philosophy to code
+- [Complete Constitution](07_Reposte_Constitution_Complete.md) - Technical constraints
+- [Governance Principles](Section_XI_Governance_Constitutional_Principles.md) - Distributed governance
+
+**❓ HAVE QUESTIONS?**
 - [Frequently Asked Questions](11_Frequently_Asked_Questions.md)
-- [Implementation Roadmap](10_Implementation_Roadmap.md)
-
-**For developers:**
-- [Complete Constitution](07_Reposte_Constitution_Complete.md)
-- [Governance Principles](Section_XI_Governance_Constitutional_Principles.md)
+- [Glossary & Terminology](09_Glossary_Terminology.md)
 
 
 \## 📚 Documentation Structure
@@ -85,3 +98,4 @@ Update README to point to new entry documents
 - Added START_HERE.md as primary entry point
 - Added FOUNDATION and SUMMARIES links
 - Reorganized Quick Start for better flow
+
