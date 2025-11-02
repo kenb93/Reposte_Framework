@@ -1,6 +1,6 @@
 # Reposte Framework: Complete Overview
 
-**Read this first. Everything else expands on these foundations.**
+
 
 ---
 
