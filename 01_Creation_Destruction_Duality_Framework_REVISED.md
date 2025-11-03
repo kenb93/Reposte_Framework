@@ -380,9 +380,95 @@ see [Document 10, Implementation Roadmap](10_Implementation_Roadmap_REVISED.md).
 
 
 ##################################################################################################################################################
+# Constructive/Destructive Duality Framework
 
+## The Two Emotional Modes
 
+At any given moment, our emotional state operates in one of two modes:
 
+**CONSTRUCTIVE MODE** takes us **toward** what we want:
+- Building relationships, businesses, ideas
+- Creativity and vision
+- Desire for a future we want to create
+
+**DESTRUCTIVE MODE** moves us **away** from what we don't want:
+- Threats, pain, suffering, stress, paralysis
+- Fear and protection
+- Defense and escape
+
+## Both Modes Are Valuable
+
+**This is critical to understand:** Neither mode is inherently good or bad. Evolution designed both for very good reasons.
+
+- **Destructive (Away) Mode** protects us from danger
+- **Constructive (Toward) Mode** helps us build and grow
+
+**Both are necessary. Both are valuable.**
+
+## The Problem: Evolution Is a Long Game
+
+Evolution doesn't account for the fact that human beings, being flawed, might not understand the rules it has set.
+
+We often:
+- Run from threats that aren't actually dangerous
+- Stay in fear mode when building would serve us better
+- Or ignore real dangers because we're focused on what we desire
+
+**The issue isn't the modes themselves—it's knowing which mode serves us in any given moment.**
+
+## Actions and Consequences
+
+From these emotional states, our actions emerge. These actions can:
+
+**Serve us:**
+- Short-term benefit
+- Long-term benefit
+- Both
+
+**Not serve us:**
+- Short-term harm
+- Long-term harm  
+- Mixed outcomes (benefit in one way, harm in another)
+
+**The same mode can produce different outcomes depending on context.**
+
+## The Key Question
+
+At any moment, ask yourself:
+
+**"Which mode am I in right now? And in this specific situation, does this mode serve me?"**
+
+Not: "Is this mode good or bad?"
+But: "Is this mode useful HERE and NOW?"
+
+## Connection to Experience → Action
+
+These modes are shaped by your experiences:
+
+- **Past painful experiences** prime Destructive (Away) Mode
+- **Past rewarding experiences** prime Constructive (Toward) Mode
+
+**This is where self-limiting beliefs emerge:**
+
+Old experiences keep triggering the same emotional mode, even when your current situation is different. You act from outdated programming.
+
+- Fear when building would serve you
+- Desire when caution would protect you
+- Away when toward is needed
+- Toward when away is needed
+
+## The Reposte Approach
+
+Our tools help you:
+
+1. **Recognize which mode you're in** (awareness)
+2. **Test if it serves you now** (truth against current reality)
+3. **Update your response** when old patterns don't fit (corrigibility)
+4. **Learn from new experiences** (growth)
+
+Both modes are gifts from evolution. The question is: **Are you using the right tool for the current job?**
+
+##################################################################################################################################################
 
 ## I. The Fundamental Pattern
 
@@ -713,3 +799,46 @@ Update Creation/Destruction framework with clarity improvements
    - Better explanation of mode recognition
    - Clearer examples of misalignment
    - Improved practical applications
+---
+
+## Document Revision History
+
+**Version 2.1 - [Current Date]**
+
+**Major Revision: Terminology Update**
+- Changed "Creation/Destruction" to "Constructive/Destructive" throughout document
+- Rationale: "Destructive" was creating negative connotation when the pattern is evolutionarily valuable and necessary for survival
+- New framing: Both modes are valuable tools; question is whether the mode serves you in current context
+- Updated framework name: "Constructive/Destructive Duality Framework"
+- Core philosophical principles unchanged; terminology refined for clarity and reduced stigma
+
+**Key Changes:**
+- Introduction: Updated framework title and core explanation
+- Section 0: Maintained foundational principles (Experience → Belief → Emotion → Action)
+- Throughout: Replaced "Creation Pattern" with "Constructive Mode" and "Destruction Pattern" with "Destructive Mode"
+- Emphasis added: "Both modes are valuable" - neither is inherently good or bad
+- Reframed question from "Am I in destruction pattern?" to "Which mode am I in, and does it serve me here?"
+
+**Philosophical Consistency:**
+- All logical relationships maintained
+- Constitutional principles unchanged
+- Behavioral science foundation intact
+- Implementation implications consistent
+
+**Related Document Updates Required:**
+- Documents 02-11 will require corresponding terminology updates
+- Core framework logic remains valid across all documents
+- Constitution and implementation sections unaffected by terminology change
+
+---
+
+**Version 2.0 - October 31, 2025**
+- Added Section 0: The Irrefutable Truth (Experience → Belief → Emotion → Action foundation)
+- Added Section 0.3: Genetic Foundation - Hardware vs. Software
+- Added Section 0.1.1: Why Emotion-First Feels Slow (And Why That's The Point)
+- Expanded from ~8,000 to ~12,000 words
+- See COMPLETE_REVISION_SUMMARY.md for full details
+
+**Version 1.0 - October 2024**
+- Initial framework documentation
+- Established Creation/Destruction Duality as core behavioral model
